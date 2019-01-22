@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE0CC097",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 12.329091,
+     "ref_longitude": 34.655622,
+     "ref_altitude": 56,
+     "contact_email": "reg@loofii.com",
+     "description": "loofii"
+  }
+}
